@@ -6,3 +6,5 @@ To simply run the file, you can run `python filename` with filename being one of
 `GameState.py` contains objects defined for the projects, while `ProcessGameState.py` contains the requested ProcessGameState class.
 
 To conduct ETL process of the given data, the user has to define an `ProcessGameState` object and run `object._build()`.
+Then, users can call the object and its functions to manipulate or retrieve data.
+
